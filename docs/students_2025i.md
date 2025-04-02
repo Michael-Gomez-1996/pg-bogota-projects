@@ -4,6 +4,8 @@
 
 ## Estudiantes Grupo 2B
 
+Julian Sanchez
+
 Juan Mancera
 
 Juan David Hernandez Rivera
@@ -49,6 +51,7 @@ David Stiven Silva Velandia
 Nicolas Sanabria c:
 
 Cristian Castelblanco
+Daniela Diaz 
 
 Jennifer Rodríguez P.
 
@@ -57,4 +60,6 @@ Cristian Collazos
 Natalia Santofimio 
 
 Bryan Velez
+
+santiago lopez varela
 
